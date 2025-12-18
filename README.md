@@ -92,9 +92,28 @@
 
 <h3>📌 Featured Projects</h3>
 <ul>
-  <li><b>NOC Generator System</b> – Spring Boot REST API with role-based workflows & MySQL</li>
-  <li><b>Audio to Sign Language Translator</b> – DRDO Internship Project using Django & Deep Learning</li>
-  <li><b>Frontend Mini Projects</b> – Weather App, Book Fetch App, Calculator</li>
+  <li>
+    <b>Meera Consulting Website</b> – Developed a production-ready company website during internship using 
+    <b>Spring Boot</b> for backend services and <b>React</b> for the frontend. 
+    Focused on scalable APIs, clean UI architecture, and real-world deployment.
+    <br/>
+    🌐 Live: <a href="https://meeraconsulting.com/" target="_blank">https://meeraconsulting.com/</a>
+  </li>
+  <br/>
+
+  <li>
+    <b>Innovative Car Rentals Platform</b> – Built a complete car rental management system with secure user authentication, 
+    Razorpay payment integration, booking workflows, and automated invoice generation.
+    <br/>
+    <b>Tech Stack:</b> JSP, JSTL, HTML, CSS, JavaScript, JasperReports
+  </li>
+  <br/>
+
+  <li>
+    <b>AI Conversational Chatbot System</b> – Developing an AI-powered chatbot with a ChatGPT-like interactive UI. 
+    Integrated <b>Node.js</b>, <b>Express</b>, <b>C WebAPI</b>, and <b>Ollama API</b> to enhance conversational intelligence 
+    and real-time responses.
+  </li>
 </ul>
 
 <hr/>
@@ -102,7 +121,7 @@
 <h3>🎓 Education</h3>
 <p>
 <b>B.Tech – Computer Science & Engineering</b><br/>
-Jawaharlal Nehru Technological University Hyderabad (JNTUH)<br/>
+Sreyas Institute Of Engineering and Technology<br/>
 2022 – 2026
 </p>
 
