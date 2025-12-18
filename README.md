@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Harshith Revella</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harsh9665&label=Profile%20views&color=0e75b6&style=flat" alt="harsh9665" />
@@ -37,7 +37,8 @@
 
 <p>
 📧 Email: <b>harsh.revella@gmail.com</b><br/>
-💼 GitHub: <b>https://github.com/harsh9665</b>
+💼 GitHub: <b>https://github.com/harsh9665</b><br/>
+💬 LinkedIn: <b>https://www.linkedin.com/in/revellaharshith</b>
 </p>
 
 <hr/>
@@ -98,12 +99,20 @@
 <hr/>
 
 <h3>📌 Featured Projects</h3>
-
 <ul>
   <li><b>NOC Generator System</b> – Spring Boot REST API with role-based workflows & MySQL</li>
   <li><b>Audio to Sign Language Translator</b> – DRDO Internship Project using Django & Deep Learning</li>
   <li><b>Frontend Mini Projects</b> – Weather App, Book Fetch App, Calculator</li>
 </ul>
+
+<hr/>
+
+<h3>🎓 Education</h3>
+<p>
+<b>B.Tech – Computer Science & Engineering</b><br/>
+Jawaharlal Nehru Technological University Hyderabad (JNTUH)<br/>
+2022 – 2026
+</p>
 
 <hr/>
 
