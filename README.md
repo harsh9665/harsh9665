@@ -27,14 +27,6 @@
 <hr/>
 
 <h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/revellaharshith/" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="30" width="40" />
-  </a>
-</p>
-
 <p>
 📧 Email: <b>harsh.revella@gmail.com</b><br/>
 💼 GitHub: <b>https://github.com/harsh9665</b><br/>
